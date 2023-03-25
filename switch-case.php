@@ -14,7 +14,7 @@
     switch ($dayno) {
         case 1:
             echo "Sun";
-break;
+            break;
         case 2:
             echo "Mon";
             break;
